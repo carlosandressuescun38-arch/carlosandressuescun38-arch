@@ -1,62 +1,125 @@
 <div align="center">
 
-# ¡Hola! Soy Carlos Andrés Avendaño Suescun 👋
+<img src="./assets/profile-banner.svg" width="100%" alt="Carlos Andrés Avendaño Suescun — IT Support Analyst, Cloud and Automation Enthusiast" />
 
-### IT Support Analyst · Cloud & Automation Enthusiast
+<br />
 
-<a href="https://github.com/carlosandressuescun38-arch?tab=followers">
-  <img src="https://img.shields.io/github/followers/carlosandressuescun38-arch?label=Seguidores&style=for-the-badge&color=0078D4&labelColor=1F2937" alt="Seguidores de GitHub" />
-</a>
-<a href="https://github.com/carlosandressuescun38-arch">
-  <img src="https://komarev.com/ghpvc/?username=carlosandressuescun38-arch&style=for-the-badge&color=0078D4&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
-</a>
+<a href="https://github.com/carlosandressuescun38-arch?tab=followers"><img src="https://img.shields.io/github/followers/carlosandressuescun38-arch?style=for-the-badge&label=SEGUIDORES&color=0E75B6&labelColor=0F172A" alt="Seguidores de GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=carlosandressuescun38-arch&style=for-the-badge&color=14B8A6&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+<img src="https://img.shields.io/badge/UBICACI%C3%93N-Bogot%C3%A1%2C%20Colombia-F59E0B?style=for-the-badge&labelColor=0F172A" alt="Ubicación: Bogotá, Colombia" />
 
 </div>
 
-## 👨🏻‍💻 Sobre mí
+<br />
 
-Soy analista de soporte TI ubicado en **Bogotá, Colombia**. Me entusiasma convertir necesidades técnicas en soluciones confiables, documentadas y útiles para las personas.
+## <img src="https://img.icons8.com/color/48/000000/administrator-male.png" width="28" alt="" /> Perfil profesional
 
-- ☁️ Certificado en **Microsoft Azure Fundamentals (AZ-900)**.
-- 🧩 Trabajo con soporte de usuarios, Microsoft 365, SQL y entornos cloud.
-- ⚙️ Estoy fortaleciendo mis habilidades de automatización e infraestructura.
-- 🚀 Construyo proyectos prácticos para aprender haciendo y compartir mi progreso.
+<table>
+  <tr>
+    <td width="56%" valign="top">
 
-## 🛠️ Tecnologías y herramientas
+### Hola, soy Carlos 👋
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+Analista de soporte TI con enfoque en soluciones cloud, automatización y experiencias de soporte que realmente resuelven. Disfruto tomar retos técnicos, organizarlos y convertirlos en procesos claros, confiables y documentados.
 
-## 📌 Proyectos destacados
+**Mi objetivo:** seguir construyendo infraestructura moderna y automatizada que ayude a los equipos a trabajar mejor.
 
-| Proyecto | Enfoque | Enlace |
-| :-- | :-- | :-- |
-| **Portafolio Azure Empresarial** | Infraestructura y servicios cloud | [Ver repositorio →](https://github.com/carlosandressuescun38-arch/portafolio-azure-empresarial) |
-| **Mi CV** | Presentación profesional y desarrollo web | [Ver repositorio →](https://github.com/carlosandressuescun38-arch/mi-cv) |
+    </td>
+    <td width="44%" valign="top">
 
-> “Aprender, documentar y automatizar: pequeñas mejoras que generan grandes resultados.”
+### En este momento
 
-## 📈 Actividad en GitHub
+🔵 Profundizando en **Microsoft Azure**  
+🟢 Construyendo proyectos de infraestructura  
+🟣 Practicando **SQL** y automatización  
+🟠 Compartiendo mi progreso en GitHub
+
+    </td>
+  </tr>
+</table>
+
+## ✦ Mi stack de trabajo
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carlosandressuescun38-arch&show_icons=true&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=334155&bg_color=FFFFFF" alt="Estadísticas de Carlos en GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosandressuescun38-arch&layout=compact&hide_border=true&title_color=0078D4&text_color=334155&bg_color=FFFFFF" alt="Lenguajes más usados" />
+
+<img src="https://img.shields.io/badge/Microsoft_365-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
 </div>
 
-## 🤝 Conectemos
+<br />
 
-¿Quieres hablar de soporte TI, Azure, automatización o una oportunidad profesional? Puedes abrir un issue en alguno de mis repositorios o escribirme por LinkedIn.
+<table>
+  <tr>
+    <td align="center" width="33%">☁️<br /><strong>Cloud</strong><br /><sub>Azure Fundamentals · AZ-900</sub></td>
+    <td align="center" width="33%">🛟<br /><strong>Soporte TI</strong><br /><sub>Usuarios · Sistemas · Resolución de incidentes</sub></td>
+    <td align="center" width="33%">⚙️<br /><strong>Automatización</strong><br /><sub>Procesos repetibles y documentados</sub></td>
+  </tr>
+</table>
+
+## 🚀 Proyectos seleccionados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ☁️ Portafolio Azure Empresarial
+
+Proyecto enfocado en demostrar soluciones de infraestructura y servicios cloud para escenarios empresariales.
+
+**Tecnologías:** Azure · Cloud · Infraestructura  
+[Explorar repositorio →](https://github.com/carlosandressuescun38-arch/portafolio-azure-empresarial)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 💼 Mi CV
+
+Mi presentación profesional y un espacio para documentar el camino que estoy construyendo en tecnología.
+
+**Tecnologías:** HTML · GitHub · Documentación  
+[Explorar repositorio →](https://github.com/carlosandressuescun38-arch/mi-cv)
+
+    </td>
+  </tr>
+</table>
+
+## 📊 Actividad y aprendizaje
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlosandressuescun38-arch&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=14B8A6&text_color=334155&bg_color=FFFFFF&rank_icon=github" alt="Estadísticas de GitHub de Carlos" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosandressuescun38-arch&layout=compact&hide_border=true&title_color=0E75B6&text_color=334155&bg_color=FFFFFF" alt="Lenguajes más usados" />
+</div>
+
+<details>
+  <summary><strong>🎯 Ruta de aprendizaje 2026</strong></summary>
+  <br />
+
+  - [x] Obtener la certificación Microsoft Azure Fundamentals (AZ-900).
+  - [ ] Crear proyectos reales de infraestructura en Azure.
+  - [ ] Profundizar en SQL y automatización.
+  - [ ] Mejorar la documentación técnica y el portafolio público.
+</details>
+
+<br />
+
+<div align="center">
+
+### “Aprender, documentar y automatizar: pequeñas mejoras que generan grandes resultados.”
+
+<a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Carlos" /></a>
+<a href="mailto:TU--CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Correo-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo de Carlos" /></a>
+
+<sub>Diseñado con intención · Bogotá, Colombia 🇨🇴</sub>
+
+</div>
 
 <!--
-Cuando tengas tu enlace de LinkedIn, reemplaza esta línea por:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO/)
+ANTES DE PUBLICAR:
+1. Reemplaza TU-USUARIO por tu usuario de LinkedIn.
+2. Reemplaza TU--CORREO@ejemplo.com por tu correo profesional.
+3. Sube también la carpeta assets/ para que se vea la cabecera gráfica.
 -->
-
-<div align="center">
-  <sub>Actualizado con intención · Bogotá, Colombia 🇨🇴</sub>
-</div>
